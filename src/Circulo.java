@@ -1,6 +1,4 @@
-public final class Circulo {
-
-    private double radio;
+public final class Circulo extends Circulos {
 
     public Circulo(double radio) {
         this.setRadio(radio);
